@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JustOrder</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="service_list">
+        <item name="carpenter">Carpenter</item>
+        <item name="plumber">Plumber</item>
+        <item name="painter">Painter</item>
+        <item name="electrician">Electrician</item>
+
+    </string-array>
+
+    <string name="address_msg">To continue this app, please provide your location. It\'ll be helpful to serve you Great!</string>
+
+
+</resources>
